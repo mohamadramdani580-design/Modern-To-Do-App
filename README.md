@@ -1,16 +1,32 @@
-# React + Vite
+💻 Mini-Projet React — Modern To-Do List Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Je suis heureux de partager mon nouveau projet développé avec React : une application moderne de gestion des tâches.
 
-Currently, two official plugins are available:
+✨ Fonctionnalités principales :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ajouter, modifier et supprimer des tâches
 
-## React Compiler
+Interface utilisateur moderne et intuitive
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Mode sombre / mode clair 🌙
 
-## Expanding the ESLint configuration
+Pagination des tâches
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Authentification utilisateur (connexion / déconnexion)
+
+🎯 Objectif du projet :
+Pratiquer le développement d’applications modernes avec React et améliorer mes compétences en gestion d’état, composants réutilisables et expérience utilisateur.
+
+🛠 Technologies utilisées :
+
+React
+
+JavaScript
+
+HTML / CSS
+
+UI moderne responsive
+
+Ce projet fait partie de mon parcours pour devenir Développeur Web Full Stack.
+
+#React #JavaScript #WebDevelopment #Frontend #Portfolio #FullStackDeveloper
